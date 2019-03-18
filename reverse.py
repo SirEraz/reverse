@@ -22,8 +22,8 @@ while True:
       print("It is a palindrome.")
    else:
       print("It is not a palindrome.")
-   print("...")
-   print("Would you like to try again? (Y/N)")
+      print("...")
+      print("Would you like to try again? (Y/N)")
    
    menu = str(input("Enter Y/N: "))
    
